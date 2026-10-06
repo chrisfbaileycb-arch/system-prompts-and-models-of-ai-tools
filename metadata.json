@@ -1,0 +1,9 @@
+{
+  "name": "AI System Prompts & Tools Explorer",
+  "description": "Interactive explorer, comparator, and schema inspector for system prompts, agent tools, and model configurations of major AI tools.",
+  "version": "1.0.0",
+  "private": true,
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
